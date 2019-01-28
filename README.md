@@ -1,1 +1,1 @@
-# iris-classification
+# Collection of iris classifications
